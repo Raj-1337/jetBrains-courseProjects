@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlashcardsTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlashcardsTest_jar</output-path>
+    <root id="archive" name="FlashcardsTest.jar">
+      <element id="module-output" name="FlashcardsTest" />
+    </root>
+  </artifact>
+</component>
