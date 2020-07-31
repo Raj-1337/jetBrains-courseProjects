@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Readability_Score:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Readability_Score_jar</output-path>
+    <root id="archive" name="Readability_Score.jar">
+      <element id="module-output" name="Readability_Score" />
+    </root>
+  </artifact>
+</component>
