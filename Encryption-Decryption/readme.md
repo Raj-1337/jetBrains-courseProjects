@@ -1,4 +1,4 @@
-#Encryption - Decryption
+# Encryption - Decryption
 
 * This is a simple Java CLI Encryption-Decryption program incorporating Factory design pattern.
 * Two variants of Caesar's cipher is used:  
